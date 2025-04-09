@@ -10,7 +10,7 @@ public class ProductsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProductsApplication.class, args);
-		System.out.println("Product Microservice");
+		System.out.println("Product Microservice is up and running");
 	}
 
 }
